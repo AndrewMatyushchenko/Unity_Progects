@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bbe21de4ba70eea44b97f23e66cf0aad
+timeCreated: 1495445917
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Optima
+  fontNames:
+  - Optima
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
