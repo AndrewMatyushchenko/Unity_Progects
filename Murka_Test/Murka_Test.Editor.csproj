@@ -266,6 +266,8 @@
     <Compile Include="Assets\TK2DROOT\tk2dUI\Editor\Core\tk2dUISpriteAnimatorEditor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\PopUp\Fonts\MinionProBold.fnt" />
+    <None Include="Assets\PopUp\Fonts\MinionProBoldItalic.fnt" />
     <None Include="Assets\TK2DROOT\tk2d\Editor\EditorUtility.shader" />
     <None Include="Assets\TK2DROOT\tk2d\Goodies\TexturePacker\Exporter\2dtoolkit\exporter.xml" />
     <None Include="Assets\TK2DROOT\tk2d\Shaders\AdditiveVertexColor.shader" />
