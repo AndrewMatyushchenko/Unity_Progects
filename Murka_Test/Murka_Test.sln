@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murka_Test", "Murka_Test.csproj", "{2B4E09F7-0F24-E009-4C14-4508A7405E60}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murka_Test.Editor", "Murka_Test.Editor.csproj", "{4A10FDEA-57A8-C270-0CD8-6736A9CDB017}"
